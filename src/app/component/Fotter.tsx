@@ -7,6 +7,7 @@ export default function Footer() {
                 <i className="bi bi-instagram"></i>
                 <i className="bi bi-twitter"></i>
                 <i className="bi bi-linkedin"></i>
+                
             </div>
 
             <p className="copyright">Copyright ©2020 All rights reserved.</p>
